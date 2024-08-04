@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(255, 0, 0);
+}
+.firstheading{
+    color: rgb(9, 37, 37);
+}
+p{
+    color: blanchedalmond;
+}
+ul{
+    color:bisque ;
+}
+img{
+    padding-left: 200px;
+    height: 300px;
+    width: 150px;
+    border: radius 2px;;
+    
+}
+#u{
+    color:violet;
+}
+#r{
+    color: cadetblue;
+}
+#t{
+    color: aquamarine;
+}
+#m{
+    color: black;
+}
